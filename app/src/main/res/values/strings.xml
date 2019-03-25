@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Game BackLog</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="status_entries">
+        <item>Want to play</item>
+        <item>Playing</item>
+        <item>Stalled</item>
+        <item>Dropped</item>
+    </string-array>
+    <string name="title_activity_update_game">Update Game</string>
+    <string name="title_activity_create_game">Create Game</string>
+    <string name="title_view_hint">Title</string>
+    <string name="platform_view_hint">Platform</string>
+    <string name="status_view_hint">Status</string>
+</resources>
